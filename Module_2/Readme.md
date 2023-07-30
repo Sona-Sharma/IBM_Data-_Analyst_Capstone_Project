@@ -1,4 +1,4 @@
-#Data Wrangling or Munging is a process in which we clean up the data set and make it ready for data analysis. 
+## Data Wrangling or Munging is a process in which we clean up the data set and make it ready for data analysis. 
 In this assignment you will perform the following tasks:
 
 -> Identify duplicate rows in the data frame.
